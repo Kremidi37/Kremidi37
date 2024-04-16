@@ -1,9 +1,9 @@
-<div align="center">
+<div align="center" style="font-size: 18px;">
 <img width="100%" alt="Software Engineering & Data Science" src="https://t4.ftcdn.net/jpg/03/62/41/99/240_F_362419959_PDIKLQzAdABz2xBr64DyuBd1QEXuZA7p.jpg"/>
 <br />
 <br />
 <h2>Hi There, Welcome to Kremidi's Github profile! </h2>
- <p style="font-size: 18px;">
+
 <a href="https://www.linkedin.com/in/kamal-remidi-9ba3b1140/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -70,7 +70,7 @@ Specialties:
 ## Tech Stack
 
 <br />
-</p>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
