@@ -39,7 +39,19 @@ Designed and maintained the database and overall architecture used to support th
 <br />
 Built and deployed two versions of a Dash-based football analytics app for Plotly as part of an effort to promote Plotly products within the sports analytics community.
 <br />
-Data analysis and visualization for various clients.<br /><br />
+Data analysis and visualization for various clients.<br />
+Specialties:
+-Build Systems (C, C++).
+-Python development.
+-Data analysis (Numpy,Pandas,Scipy).
+-Data Viz(Seaborn, Matplotlib).
+-Dash.
+-Sport/Football (soccer) data and tactical analysis.
+-Full Stack(Typescript, React, NestJS, Django).
+-SQL Database language.
+-Tableau Data Visualization.
+-Machine Learning.
+<br />
 <br />
 <br />
 
