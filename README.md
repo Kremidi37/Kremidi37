@@ -21,7 +21,7 @@
 [![Kremidi's 1337 stats](https://badge.mediaplus.ma/binary/kremidi)](https://github.com/oakoudad/badge42)
 
 I am currently pursuing a degree in IT Architecture at <a href="https://1337.ma">UM6P - 1337FIL</a>. in 2018 i had Completed the Master's Program in the Graduate School of National School of Business and Management And now I am a student at 1337 Coding school and a doctoral candidate in economics,Apart from football, He's enthralled by philosophy and psychology.
-</br>
+<br />
  *Mathematics is the language in which god has written the universe*
 
 I'm currently based in **[Casablanca, Morocco.]([https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378](https://maps.app.goo.gl/DR5fTT6GTNuXsSfD7))**
@@ -41,6 +41,7 @@ Built and deployed two versions of a Dash-based football analytics app for Plotl
 <br />
 Data analysis and visualization for various clients.<br />
 Specialties:
+<br />
 -Build Systems (C, C++).
 -Python development.
 -Data analysis (Numpy,Pandas,Scipy).
