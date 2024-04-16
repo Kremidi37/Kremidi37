@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="Software Engineering & Data Science" src="https://t3.ftcdn.net/jpg/04/42/89/90/240_F_442899020_JN3rsWrBmf2wvhmKxGsUmFVWj2obApyz.jpg"/>
+<img width="100%" alt="Software Engineering & Data Science" src="https://t4.ftcdn.net/jpg/03/62/41/99/240_F_362419959_PDIKLQzAdABz2xBr64DyuBd1QEXuZA7p.jpg"/>
 <br />
 <br />
 <h2>Hi There, Welcome to Kremidi's Github profile! </h2>
