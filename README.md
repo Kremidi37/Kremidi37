@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" alt="Software Engineering & Data Science" src="https://i.gifer.com/7xTc.gif"/>
+<img width="100%" alt="Software Engineering & Data Science" src="https://e0.pxfuel.com/wallpapers/899/608/desktop-wallpaper-mr-vaporwave-helios-art-pink-sculpture-magenta.jpg"/>
 <br />
 <br />
-<h2>Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2>Hi There, Welcome to Kremidi's Github profile! </h2>
 <a href="https://www.linkedin.com/in/kamal-remidi-9ba3b1140/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -43,15 +43,26 @@ Data analysis and visualization for various clients.<br />
 Specialties:
 <br />
 -Build Systems (C, C++).
+<br />
 -Python development.
+<br />
 -Data analysis (Numpy,Pandas,Scipy).
+<br />
 -Data Viz(Seaborn, Matplotlib).
+<br />
 -Dash.
+<br />
 -Sport/Football (soccer) data and tactical analysis.
+<br />
 -Full Stack(Typescript, React, NestJS, Django).
+<br />
 -SQL Database language.
+<br />
 -Tableau Data Visualization.
+<br />
 -Machine Learning.
+<br />
+
 <br />
 <br />
 <br />
