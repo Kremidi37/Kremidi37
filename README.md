@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" alt="Software Engineering & Data Science" src="https://e0.pxfuel.com/wallpapers/899/608/desktop-wallpaper-mr-vaporwave-helios-art-pink-sculpture-magenta.jpg"/>
+<img width="100%" alt="Software Engineering & Data Science" src="https://t3.ftcdn.net/jpg/04/42/89/90/240_F_442899020_JN3rsWrBmf2wvhmKxGsUmFVWj2obApyz.jpg"/>
 <br />
 <br />
 <h2>Hi There, Welcome to Kremidi's Github profile! </h2>
